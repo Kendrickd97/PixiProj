@@ -1,0 +1,52 @@
+{"frames": {
+
+"Dungeon.png":
+{
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"gorgon.gif":
+{
+	"frame": {"x":800,"y":0,"w":500,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":480},
+	"sourceSize": {"w":500,"h":480}
+},
+"grondtile.jpg":
+{
+	"frame": {"x":1300,"y":0,"w":300,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":232},
+	"sourceSize": {"w":300,"h":232}
+},
+"knight.png":
+{
+	"frame": {"x":0,"y":600,"w":1200,"h":1200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":1200},
+	"sourceSize": {"w":1200,"h":1200}
+},
+"treasure.png":
+{
+	"frame": {"x":1200,"y":600,"w":370,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":370,"h":390},
+	"sourceSize": {"w":370,"h":390}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Knightlife.png",
+	"format": "RGBA8888",
+	"size": {"w":1600,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:326e44d6ae4a2668c29d033a5f9728da:56534d2d23633dc6086db8819d6cd443:77ff5f0c8ae4f15b60f8693c0c6b3af9$"
+}
+}
